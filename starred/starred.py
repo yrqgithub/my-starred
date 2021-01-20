@@ -48,7 +48,7 @@ def starred(username, token, sort, repository, message):
     creating your own Awesome List used GitHub stars!
 
     example:
-        starred --username coco-hkk --sort > README.md
+        starred --username yrqgithub --sort > README.md
     """
     if repository:
         if not token:

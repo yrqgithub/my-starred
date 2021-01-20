@@ -23,7 +23,7 @@ jobs:
     - name: pycodestyle
       run: pycodestyle --max-line-length=100 starred
     - name: test
-      run: starred --username coco-hkk --sort
+      run: starred --username yrqgithub --sort
 
     # - name: Lint with flake8
     #   run: |
